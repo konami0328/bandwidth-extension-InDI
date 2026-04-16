@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.0.1
+torchaudio>=2.0.1
+
+# Model components
+einops>=0.6.1
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# Data & utilities
+numpy>=1.24.4
+scipy>=1.10.1
+tqdm>=4.65.0
+pandas>=2.0.0
+
+# Visualisation (optional, used in thesis figures)
+matplotlib>=3.7.1
+
+# ViSQOL is an external binary — see https://github.com/google/visqol
+# No pip package required.
